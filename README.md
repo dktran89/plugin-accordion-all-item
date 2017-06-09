@@ -1,0 +1,1 @@
+# plugin-accordion-all-item
